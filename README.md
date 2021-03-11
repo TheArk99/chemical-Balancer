@@ -159,7 +159,9 @@ It should then change to that drive. However in order to get to the folder you a
 	
 	PS C:\cd Dowloads 
 	
-Then hit enter
+Then hit the enter or return key on your keyboard. If you need more help on how to change floders, paths, or dirves refer to this site:
+
+https://www.sneppets.com/software/how-to-change-drive-and-the-directory-in-windows-powershell/
 
 Now finaly to run the python program:
 	
