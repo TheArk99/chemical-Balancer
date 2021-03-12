@@ -82,7 +82,7 @@ Then once you are in that folder in the terminal you simply type:
 This site is one that might help with hwo to run the program:
 https://pythonprogramminglanguage.com/how-to-run/
 
-That is it, if you need any more help or got stuck some where then you could contact me or go to one of the sites that I have mentiones so far.
+that is it the program should run now and you should be able to figure out the rest once you are done with the program simply press the X to close the window or press <Ctrl + c> and then type 'exit' and hit enter.
 
  </section>
  <section>
@@ -167,7 +167,7 @@ Now finaly to run the python program:
 	
 when you are finaly in the folder your program is in you simply will want to type 'python' then the the files name for example it should look like this:
 
-Windows PowerShell
+	Windows PowerShell
 	Copyright (C) 2014 Microsoft Corporation. All rights reserved.
 	
 	PS C:\Dowloads\python Chemical-Balancer
