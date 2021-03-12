@@ -8,16 +8,16 @@ Just a FYI this article is probably a lot better at actualy expaling how to inst
 
 
 Step 1:
-  Step one is the easiest thing to do. Know what operating system you are on. that is it. Depending on that I will make two different tutorials(i am expecting that people on a linux machine already know all of this thus not needing a tutroial).
+  Step one is the easiest thing to do. Know what operating system you are on. that is it. Depending on that I will make two different tutorials(i am expecting that people on a linux machine already know all of this thus not needing a tutroial). Also for step one is to download the file, Depending on the operatin System you are usin chose the right file to dowload and use, for Mac systems the original normal Chemical-Balancer file is good, for Windows users download and use the MSChemical-Balancer file for Microsoft.
   
   
 
-  Depending on Operating System Go to the one that matches.
+  Depending on your Operating System go to the one guid that matches, Mac is first Windows is at the bottom of the page.
   
 <section>
  <h1>Mac OS:</h1>
  <p>Step 1:
-      	step on for Mac os is to first pull up your terminal. you do this on macs simply by pressing the arrow to locate apps the typing the "terminal". It should show up as the first thing. if you want a more in depth how to check out this article on how to bring up your termianl.
+      	step one for Mac os is to first pull up your terminal. You do this on macs simply by pressing the search button otherwords know as to Mac users as the spotlight button to locate apps. Then  to find the terminal simply type "terminal". It should show up as the first thing. if you want a more in depth how to check out this article on how to bring up your termianl.
         https://www.howtogeek.com/682770/how-to-open-the-terminal-on-a-mac</p>
 
  
