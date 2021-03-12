@@ -12,7 +12,7 @@ Step 1:
   
   
 
-  Depending on your Operating System go to the one guid that matches, Mac is first Windows is at the bottom of the page.
+  <p>Depending on your Operating System go to the one guid that matches, <a href="https://github.com/TheArk99/chemical-Balancer#mac-os">Mac</a> is first <a href="https://github.com/TheArk99/chemical-Balancer/blob/main/README.md#windows">Windows</a> is at the bottom of the page, or you can click the link to bring you to them.</p>
   
 <section>
  <h1>Mac OS:</h1>
